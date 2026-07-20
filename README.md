@@ -1,6 +1,5 @@
-# daily-learning-log-2026
-Daily learning log and contribution tracker - Automated daily commits with backdating capability and genuine learning content
-
+# github-contribution-filler
+🎯 **Automate GitHub contribution graph filling with backdated commits** • Perfect for showcasing consistent activity • Custom date ranges • Easy removal • Educational tool
 ## ⚠️ Important Notice
 
 **This repository includes a backdating script for historical contribution filling. Please read this section carefully:**
@@ -26,7 +25,7 @@ Daily learning log and contribution tracker - Automated daily commits with backd
 ## 📁 Repository Structure
 
 ```
-daily-learning-log-2026/
+github-contribution-filler/
 ├── daily-logs/           # Daily learning entries
 │   ├── 2025/
 │   │   ├── 06/
@@ -50,8 +49,8 @@ daily-learning-log-2026/
 
 **Step 1:** Clone the repository
 ```bash
-git clone https://github.com/pangerlkr/daily-learning-log-2026.git
-cd daily-learning-log-2026
+git clone https://github.com/pangerlkr/github-contribution-filler.git
+cd github-contribution-filler
 ```
 
 **Step 2:** Make the script executable
